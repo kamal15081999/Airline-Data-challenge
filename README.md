@@ -134,25 +134,6 @@ Dynamic pricing optimization
 Machine learning-based profitability prediction
 Interactive dashboards using Power BI or Tableau
 Repository Structure
-
-### Airline-Route-Profitability-Analysis/
-│
-├── Airline_Data_Challenge.ipynb
-├── README.md
-│
-├── data/
-│   ├── Flights.csv
-│   ├── Tickets.csv
-│   └── Airport_Codes.csv
-│
-├── images/
-│   ├── route_analysis.png
-│   ├── profitability_analysis.png
-│   └── delay_analysis.png
-│
-└── outputs/
-    ├── route_rankings.csv
-    └── profitability_summary.csv
 ### Results
 
 The project successfully identified high-performing airline routes by combining operational and financial analysis.
